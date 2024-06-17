@@ -1,0 +1,41 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Hit the Road with HL Car Rental",
+  "subtitle": "Experience the thrill of freedom and flexibility with our energetic car rental service"
+}
